@@ -1,0 +1,12 @@
+@font-face 
+{ 
+    font-family: 'PC Senior Regular';
+    src: url('../fonts/PC-Senior-Regular.ttf');
+} 
+
+body
+{
+    text-align: center;
+    font-family: 'PC Senior Regular';
+    color: blue;
+}
